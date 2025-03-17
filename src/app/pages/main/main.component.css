@@ -1,0 +1,22 @@
+.main-banner{
+  background-color: #EE2C4F ;
+
+}
+.custom-shape {
+  width: 265px;
+  height: 129px;
+  background-color: #F65423; /* Color de fondo */
+  clip-path: path('M0,100 C50,120 150,20 265,100 L265,129 L0,129 Z');
+}
+
+
+
+.btn-primary{
+  background-color: #2A3890;
+  border-radius: 24px;
+  padding: 8px 24px;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+}
